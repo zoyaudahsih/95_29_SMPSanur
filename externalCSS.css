@@ -1,0 +1,32 @@
+f{
+    color: rgb(109, 53, 183);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p.a{
+    color: rgb(174, 229, 239);
+    text-align: center;
+    background-color: rgb(127, 44, 163);
+}
+p.b{
+    color: rgb(165, 144, 42);
+    text-align: left;
+}
+p.c{
+    color: rgb(203, 192, 255);
+    text-align: justify;
+}
+h1{
+    text-decoration: overline;
+    text-decoration-color: rgb(19, 112, 39);
+}
+h2{
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
+h3{
+    text-decoration: line-through;
+    text-decoration-thickness: 65px;
+}
+p.B{
+    text-decoration: overline, underline, line-through;
+}

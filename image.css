@@ -1,0 +1,61 @@
+body{
+    background-image: url("background-image.jpg")
+}
+
+img.ukuran{
+    height: 300px;
+    width: 300px;
+}
+
+img.lengkungan{
+    height: 300px;
+    width: 300px;
+    border-radius: 20% 0% 20% 0%;
+}
+
+div.kelompok{
+    height: 300px;
+    width: 300px;
+    background-color: aliceblue;
+    border-radius: 20%;
+    text-align: center
+}
+
+div.kelompok img{
+    height: 270px;
+    width: 250px;
+    border-radius: 20%;
+    border: 2px solid blue;
+}
+
+div.efek{
+    height: 300px;
+    width: 300px;
+    background-color: aliceblue;
+    border-radius: 20%;
+    text-align: center
+}
+
+div.efek img{
+    height: 270px;
+    width: 250px;
+    border-radius: 20%;
+    border: 2px solid blue;
+}
+
+div.efek:hover{
+    height: 350px;
+    width: 350px;
+    background-color: lightgoldenrodyellow;
+    box-shadow: 15px 15px 10px darkgoldenrod;
+}
+
+p.external{
+    font-family: "matcha_mint";
+    font-size: 30pt;
+}
+
+@font-face {
+    font-family: "matcha_mint";
+    src: url("matcha_mint/Matcha Mint.otf");
+}
